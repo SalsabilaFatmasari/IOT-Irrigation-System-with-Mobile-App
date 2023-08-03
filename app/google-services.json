@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "442367668320",
+    "firebase_url": "https://siram-e7be0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "siram-e7be0",
+    "storage_bucket": "siram-e7be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442367668320:android:20349fe77fdc7901795305",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442367668320-h6f09af64iq04fu97lshluph625a19h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QXVKcs25t9z77Ns88d7-gZPOGyQuV2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442367668320-h6f09af64iq04fu97lshluph625a19h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442367668320:android:cbea83f92f16de44795305",
+        "android_client_info": {
+          "package_name": "com.example.siram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442367668320-h6f09af64iq04fu97lshluph625a19h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3QXVKcs25t9z77Ns88d7-gZPOGyQuV2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442367668320-h6f09af64iq04fu97lshluph625a19h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
